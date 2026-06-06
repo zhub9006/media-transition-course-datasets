@@ -1,0 +1,5 @@
+platform,avg_users_reached_per_month,avg_bounce_rate_pct,avg_total_cost_inr,records_count,year,source,notes
+PDF WhatsApp Push,28000,65,180000,12,2021,Bharat Herald - fact_digital_pilot.csv,High interest in WhatsApp format but usability concerns
+E-paper Mobile Web,22000,67,170000,12,2021,Bharat Herald - fact_digital_pilot.csv,Font too tiny on mobile screens; zooming issues
+Mobile App Beta,25000,64,160000,12,2021,Bharat Herald - fact_digital_pilot.csv,Mixed feedback; some usability concerns
+Responsive Web Version,19000,68,150000,12,2021,Bharat Herald - fact_digital_pilot.csv,Poor mobile experience; discontinued after 2021
