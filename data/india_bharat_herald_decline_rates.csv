@@ -1,0 +1,7 @@
+year,estimated_daily_circulation_thousands,yoy_decline_pct,source,notes
+2019,1200,,Bharat Herald - fact_print_sales.csv,Peak year
+2020,1060,-11.67,Bharat Herald - fact_print_sales.csv,COVID-19 impact
+2021,920,-13.21,Bharat Herald - fact_print_sales.csv,Failed digital pilot launched and discontinued
+2022,820,-10.87,Bharat Herald - fact_print_sales.csv,Continued decline
+2023,700,-14.63,Bharat Herald - fact_print_sales.csv,Accelerating decline
+2024,560,-20.00,Bharat Herald - fact_print_sales.csv,Largest single-year decline
